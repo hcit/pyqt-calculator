@@ -5,4 +5,4 @@ Requires:
 
 To get the the requirements: sudo apt-get install:
    - python-qt4
-   - sympy
+   - python-sympy
