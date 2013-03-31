@@ -1,3 +1,7 @@
+Features:
+   - basic calculator
+   - linear algebra equation solver
+
 Requires:
    - Python > 2.6
    - PyQt > 4.6
